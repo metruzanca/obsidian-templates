@@ -1,0 +1,1 @@
+<% tp.user.shields(tp) %>
